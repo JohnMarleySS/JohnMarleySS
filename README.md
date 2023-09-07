@@ -1,1 +1,1 @@
-<img width=100% src="[https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header](https://avatars.githubusercontent.com/u/65204093?v=4)https://avatars.githubusercontent.com/u/65204093?v=4"/>
+<img width=100% src="https://avatars.githubusercontent.com/u/65204093?v=4"/>
