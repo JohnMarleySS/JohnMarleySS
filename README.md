@@ -13,7 +13,6 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-<div style="display: inline_block">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnMarleySS&show_icons=true&theme=radical)
-</div>
+
