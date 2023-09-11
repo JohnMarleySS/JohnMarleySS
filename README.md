@@ -1,4 +1,4 @@
-## Olá, Eu sou o John Marley!!
+## Olá, Eu sou o John Marley!
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marleyy_ss/)
 
